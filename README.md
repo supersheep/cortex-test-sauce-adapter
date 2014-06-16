@@ -5,14 +5,16 @@
 ## Install
 
 ```bash
-$ npm install cortex-test-sauce-adapter --save
+$ npm install cortex-test-sauce-adapter -g
 ```
 
 ## Usage
 
-```js
-var cortex_test_sauce_adapter = require('cortex-test-sauce-adapter');
-```
+  cortex test --mode sauce --sauce_user <user> --sauce_secret <access key> --browser <browsers>
+
+## Watch Video
+  
+http://ascii.io/a/10160
 
 ## Licence
 
